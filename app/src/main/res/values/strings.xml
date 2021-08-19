@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigation Icons</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+</resources>
